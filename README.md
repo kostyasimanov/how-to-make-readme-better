@@ -5,29 +5,16 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#a-fully-functional-guide-example-how-to-write-readme-on-github">About The Project</a>
-      <ul>
-        <li><a href="#advice-from-this-video">Based on</a></li>
-      </ul>
+    <li><a href="#a-fully-functional-guide-example-how-to-write-readme-on-github">About The Project</a>
+      <ul><li><a href="#advice-from-this-video">Based on</a></li></ul>
     </li>
-    <li>
-      <a href="#how-to-install-this-project">Installation</a>
-    </li>
+    <li><a href="#how-to-install-this-project">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#known-issues">Known issues</a></li>
-    <ul>
-        <li><a href="#roadmap">Roadmap</a></li>
-      </ul>
-    </li>
-    <li><a href="#some-quotes-and-tables">Work is done?</a></li>
-        <ul>
-        <li><a href="#quotes">Quotes</a></li>
-      </ul>
-          <ul>
-        <li><a href="#table">Table</a></li>
-      </ul>
-    </li>
+    <li><a href="#known-issues">Known issues</a>
+      <ul><li><a href="#roadmap">Roadmap</a></li></ul>
+    <li><a href="#some-quotes-and-tables">Work is done?</a>
+      <ul><li><a href="#quotes">Quotes</a></li></ul>
+      <ul><li><a href="#table">Table</a></li></ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
